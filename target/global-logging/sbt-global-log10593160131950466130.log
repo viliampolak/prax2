@@ -1,0 +1,13 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\vilia\IdeaProjects\untitled1\target\scala-2.13\classes ...
+[info] Non-compiled module 'compiler-bridge_2.13' for Scala 2.13.8. Compiling...
+[info]   Compilation completed in 17.351s.
+[error] C:\Users\vilia\IdeaProjects\untitled1\src\main\scala\ApiUser.scala:44:1: Missing closing brace `}` assumed here
+[error] }
+[error] ^
+[error] one error found
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 22 s, completed Mar 7, 2023, 9:01:02 PM
+[debug] > Exec(idea-shell, None, None)
